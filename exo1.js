@@ -5,4 +5,4 @@
 let first = "13";
 let second = "21";
 
-console.log("Résultat de l'addition : ", first + second);
+console.log(parseInt(first, 10) + parseInt(second, 10));
