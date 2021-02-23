@@ -12,3 +12,10 @@
     to show the result.
 */
 
+/* Second step
+    Create function add(number) : 
+        - The method can take 0, 1 or 2 numbers separated by comma, and returns their sum.
+        - An empty string will return "0".
+        - Example of inputs: "", "1", "1.1,2.2" need to be "3.3" /!\
+*/
+
