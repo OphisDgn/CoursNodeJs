@@ -14,7 +14,7 @@ function add(str) {
             //console.log("strAdd : " + parseFloat(strAdd[i]));
             add += parseFloat(strAdd[i]);
         }
-        return add;
+        return add.toFixed(1);
     }
     else {
         return "0";
